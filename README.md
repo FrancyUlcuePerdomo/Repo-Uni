@@ -6,7 +6,7 @@ El proyecto se basa en el siguiente esquema de base de datos MySQL:
 
 ## ⚙️ Estructura de la Base de Datos
 
-La base de datos se llama `IA-CRUD` , y la tabla para la gestión de autores (`autor`) tiene la siguiente estructura SQL:
+La base de datos se llama `Repo-Uni` , y la tabla para la gestión de autores (`autor`) tiene la siguiente estructura SQL:
 
 ```sql
 CREATE TABLE autor (
